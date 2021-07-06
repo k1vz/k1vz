@@ -57,4 +57,4 @@ Pronouns: he/him
 
 <div align="center">
   
-[![Pedro Duarte's github stats](https://github-readme-stats.vercel.app/api?username=k1vz&show_icons=true&theme=react&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro Duarte's github stats](https://github-readme-stats.vercel.app/api?username=k1vz&show_icons=true&theme=gruvbox&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
