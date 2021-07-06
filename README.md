@@ -1,4 +1,4 @@
-### Hello, I am Pedro👋
+### Hello, I am Pedro 👋
 
 ### Welcome to my page!
 <p>
