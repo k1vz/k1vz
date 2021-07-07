@@ -7,7 +7,7 @@ My name is Pedro Duarte, I am a Full Stack developer from Brazil, passionated by
     
 - I am 16 years old.    
 - I started programming in 2019.    
-- I am currently studying Computer Technician at [Instituto Federal Catarinense](http://sombrio.ifc.edu.br/).
+- I am currently studying Computer Technician at <a href="http://sombrio.ifc.edu.br/" title="Institutional Website">Instituto Federal Catarinense</a>.
   
 Pronouns: he/him.
 </p>
