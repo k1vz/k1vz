@@ -4,9 +4,9 @@
 <p>
   
 I'm Pedro, Full Stack developer, passionated by programming and technology.
-I currently study Computer Technician at Instituto Federal Catarinense.
+I started programming in 2019 and am currently studying Computer Technician at Instituto Federal Catarinense.
   
-Pronouns: he/him
+Pronouns: he/him.
 
 </p>
 
