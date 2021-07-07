@@ -1,13 +1,15 @@
-### Hello, I am Pedro 👋
+### Ahoy! 👋
 
 ### Welcome to my page!
-<p>
-  
-I'm Pedro, Full Stack developer, passionated by programming and technology.
-I started programming in 2019 and am currently studying Computer Technician at Instituto Federal Catarinense.
+
+<p>  
+My name is Pedro Duarte, I am a Full Stack developer from Brazil, passionated by programming, technology and hardware devices.
+    
+- I am 16 years old.    
+- I started programming in 2019.    
+- I am currently studying Computer Technician at [Instituto Federal Catarinense](http://sombrio.ifc.edu.br/).
   
 Pronouns: he/him.
-
 </p>
 
 
@@ -25,31 +27,31 @@ Pronouns: he/him.
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=ffffff)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logoColor=fff&logo=Express)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logoColor=000&logo=Linux)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logoColor=fff&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat-square&logoColor=fff&logo=node.js)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat-square&logoColor=fff&logo=react)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![Express](https://img.shields.io/badge/-Express-333333?style=flat-square&logoColor=fff&logo=Express)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logoColor=000&logo=Linux)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 **Utilities**
 
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" title="Insomnia" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM"/></code>
+<code><img height="32" title="Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn"/></code>
 
 **DevOps**
 
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
+<code><img height="32" title="GitHub" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 
 **Business Tools**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+<code><img height="32" title="Trello" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
 ---
 
