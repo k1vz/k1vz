@@ -25,6 +25,16 @@ Pronouns: he/him.
 
 ---
 
+### Repositories where I am coding:
+
+#### In pair
+- [TCC](https://github.com/AlexandreXYZ/CGE)
+
+#### In group
+- [Flashcard WebSite](https://github.com/Studio-024/projeto01)
+
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)&nbsp;
