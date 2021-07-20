@@ -12,7 +12,6 @@ My name is Pedro Duarte, I am a Full Stack developer from Brazil, passionated by
 Pronouns: he/him.
 </p>
 
-
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/pedro-duarte-5b5356214/">
@@ -28,7 +27,7 @@ Pronouns: he/him.
 ### Repositories where I am coding:
 
 #### In pair
-- [TCC](https://github.com/AlexandreXYZ/CGE)
+- [TCC - Electronic Gnome Calibrator](https://github.com/AlexandreXYZ/CGE)
 
 #### In group
 - [Flashcard WebSite](https://github.com/Studio-024/projeto01)
@@ -68,5 +67,5 @@ Pronouns: he/him.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  
-[![Pedro Duarte's github stats](https://github-readme-stats.vercel.app/api?username=k1vz&show_icons=true&theme=radical&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Pedro Duarte's github stats](https://github-readme-stats.vercel.app/api?username=k1vz&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
