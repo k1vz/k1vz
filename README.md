@@ -14,13 +14,8 @@ Pronouns: he/him.
 
 ### Where to find me:
 
-<a href="https://www.linkedin.com/in/pedro-duarte-5b5356214/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /> My LinkedIn</code>
-</a>
-<br />
-<a href="https://mail.google.com/mail/ca/u/0/?view=cm&fs=1&tf=1&source=mailto&su=Contato&to=pe.of.duarte@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /> My Gmail</code>
-</a>
+[![Badge](https://img.shields.io/badge/Pedro%20Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-duarte-5b5356214/) &nbsp;
+[![Badge](https://img.shields.io/badge/-pe.of.duarte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pe.of.duarte@gmail.com)](mailto:pe.of.duarte@gmail.com)
 
 ---
 
@@ -68,4 +63,4 @@ Pronouns: he/him.
 
 <div align="center">
 
-[![Pedro Duarte's github stats](https://github-readme-stats.vercel.app/api?username=k1vz&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=k1vz&show_icons=true&theme=radical&include_all_commits=true)
