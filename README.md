@@ -1,16 +1,13 @@
-### Ahoy! 👋
+## Ahoy! 👋
 
-### Welcome to my page!
-
-<p>  
-My name is Pedro Duarte, I am a Full Stack developer from Brazil, passionated by programming, technology and hardware devices.
+#### My name is Pedro Duarte, I am a Full Stack developer from Brazil, passionated by programming, technology and hardware devices.
     
 - I am 16 years old.    
 - I started programming in 2019.    
 - I am currently studying Computer Technician at <a href="http://sombrio.ifc.edu.br/" title="Institutional Website">Instituto Federal Catarinense</a>.
   
 Pronouns: he/him.
-</p>
+</h4>
 
 ### Where to find me:
 
@@ -31,31 +28,14 @@ Pronouns: he/him.
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logoColor=fff&logo=typescript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-5B9856?style=flat-square&logoColor=fff&logo=node.js)&nbsp;
-![ReactJS](https://img.shields.io/badge/-ReactJS-18BCEE?style=flat-square&logoColor=fff&logo=react)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=ffffff)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![Express](https://img.shields.io/badge/-Express-333333?style=flat-square&logoColor=fff&logo=Express)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logoColor=000&logo=Linux)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-**Utilities**
-
-<code><img height="32" title="Insomnia" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" title="NPM" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM"/></code>
-<code><img height="32" title="Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn"/></code>
-
-**DevOps**
-
-<code><img height="32" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/></code>
-<code><img height="32" title="GitHub" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-
-**Business Tools**
-
-<code><img height="32" title="Trello" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+<div style="display: inline_block"><br>
+	<img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+	<img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+	<img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+	<img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+	<img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+	<img align="center" alt="Insomnia" title="Insomnia" height="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" />
+</div>
 
 ---
 
