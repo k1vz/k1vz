@@ -9,21 +9,22 @@
 Pronouns: he/him.
 </h4>
 
-### Where to find me:
+---
+
+### 🔎 Where to find me:
 
 [![Badge](https://img.shields.io/badge/Pedro%20Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-duarte-5b5356214/) &nbsp;
 [![Badge](https://img.shields.io/badge/-pe.of.duarte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pe.of.duarte@gmail.com)](mailto:pe.of.duarte@gmail.com)
 
 ---
 
-### Repositories where I am currently coding:
+## ⭐ Main repositories
 
-- [SelfWiser](https://github.com/Studio-024/self-wiser)
-
-### Repositories I contributed:
-
-- **In pair:** [TCC - Electronic Gnomon Calibrator](https://github.com/AlexandreXYZ/CGE)
-- **In group:** [Flashcard WebSite](https://github.com/Studio-024/projeto01)
+| Project | Description | Acted as | Information | Status |
+| ------- | --------- | ------ | -------- | ------ |
+| <div align="center"> [![Memorize](https://img.shields.io/badge/Memorize-purple?style=for-the-badge&link=https://github.com/Studio-024/memorize)](https://github.com/Studio-024/memorize) </div> | Flashcards website | Fullstack Developer | - Was performed as a team <br> - The main technologies were TypeScript and ReactJS | ![Status](https://img.shields.io/badge/Concluded-green?style=for-the-badge)
+| <div align="center"> [![CGE](https://img.shields.io/badge/CGE-orange?style=for-the-badge&link=https://github.com/AlexandreXYZ/CGE)](https://github.com/AlexandreXYZ/CGE) </div> | Algorithm that produces comparative data with an Electronic Gnomon | Fullstack Developer | TCC for conclusion of Computer Technician course | ![Status](https://img.shields.io/badge/Concluded-green?style=for-the-badge) |
+| <div align="center"> [![Self-Wiser](https://img.shields.io/badge/Self%20Wiser-340763?style=for-the-badge&link=https://github.com/Studio-024/self-wiser)](https://github.com/Studio-024/self-wiser) </div> | Blog on how to be self-taught | Back-end Developer | - Is beeing performed as a team <br> - The main technologies were TypeScript, ReactJS and NextJS | ![Status](https://img.shields.io/badge/Under%20construction-blue?style=for-the-badge)
 
 ---
 
