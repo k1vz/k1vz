@@ -1,10 +1,10 @@
 ## Ahoy! 👋
 
-#### My name is Pedro Duarte, I am a Full Stack developer from Brazil, passionated by programming, technology and hardware devices.
+#### I am a back-end developer from Brazil, passionated by programming, technology and hardware devices.
     
-- I am 16 years old.    
+- I am 17 years old.    
 - I started programming in 2019.    
-- I am currently studying Computer Technician at <a href="http://sombrio.ifc.edu.br/" title="Institutional Website">Instituto Federal Catarinense</a>.
+- I studied Computer Technician at <a href="http://sombrio.ifc.edu.br/" title="Institutional Website">Instituto Federal Catarinense</a>.
   
 Pronouns: he/him.
 </h4>
@@ -16,13 +16,14 @@ Pronouns: he/him.
 
 ---
 
-### Repositories where I am coding:
+### Repositories where I am currently coding:
 
-#### In pair
-- [TCC - Electronic Gnome Calibrator](https://github.com/AlexandreXYZ/CGE)
+- [SelfWiser](https://github.com/Studio-024/self-wiser)
 
-#### In group
-- [Flashcard WebSite](https://github.com/Studio-024/projeto01)
+### Repositories I contributed:
+
+- **In pair:** [TCC - Electronic Gnomon Calibrator](https://github.com/AlexandreXYZ/CGE)
+- **In group:** [Flashcard WebSite](https://github.com/Studio-024/projeto01)
 
 ---
 
@@ -31,10 +32,12 @@ Pronouns: he/him.
 <div style="display: inline_block"><br>
 	<img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 	<img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+	<img align="center" alt="NodeJS" title="NodeJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 	<img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 	<img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 	<img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 	<img align="center" alt="Insomnia" title="Insomnia" height="30" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" />
+	<img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
 </div>
 
 ---
