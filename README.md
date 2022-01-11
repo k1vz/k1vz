@@ -11,7 +11,7 @@ Pronouns: he/him.
 
 ---
 
-### 🔎 Where to find me:
+## 🔎 Where to find me:
 
 [![Badge](https://img.shields.io/badge/Pedro%20Duarte-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-duarte-5b5356214/) &nbsp;
 [![Badge](https://img.shields.io/badge/-pe.of.duarte@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pe.of.duarte@gmail.com)](mailto:pe.of.duarte@gmail.com)
@@ -28,7 +28,7 @@ Pronouns: he/him.
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block"><br>
 	<img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -43,7 +43,7 @@ Pronouns: he/him.
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
 
