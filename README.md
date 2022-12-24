@@ -2,9 +2,10 @@
 
 #### I am a back-end developer from Brazil, passionated by programming, technology and hardware devices.
     
-- I am 17 years old.    
+- I am 18 years old.    
 - I started programming at 2019.    
 - I studied Computer Technician at <a href="http://sombrio.ifc.edu.br/" title="Institutional Website">Instituto Federal Catarinense</a>.
+- I am studing <a href="https://tic.ufsc.br/" title="Institutional Website">Information and Communication Technologies</a> at Universidade Federal de Santa Catarina.
   
 Pronouns: he/him.
 </h4>
