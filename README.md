@@ -1,6 +1,6 @@
 ## Ahoy! 👋
 
-#### I am a back-end developer from Brazil, passionated by programming, technology and hardware devices.
+#### I am a back-end developer from Brazil, passionated about programming, technology and hardware devices.
     
 - Born in dec/2004.    
 - I started programming at 2019.    
