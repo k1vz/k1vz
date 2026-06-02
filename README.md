@@ -4,8 +4,8 @@
     
 - Born in dec/2004.    
 - I started programming at 2019.    
-- I studied Computer Technician at <a href="http://sombrio.ifc.edu.br/" title="Institutional Website">Instituto Federal Catarinense</a>.
-- I am studing <a href="https://tic.ufsc.br/" title="Institutional Website">Information and Communication Technologies</a> at Universidade Federal de Santa Catarina.
+- I studied Computer Technician at <a href="http://sombrio.ifc.edu.br/" title="Institutional Website">Instituto Federal Catarinense</a> between 2019 and 2021.
+- I studied <a href="https://tic.ufsc.br/" title="Institutional Website">Information and Communication Technologies</a> at Universidade Federal de Santa Catarina between 2022 and 2024.
   
 Pronouns: he/him.
 </h4>
